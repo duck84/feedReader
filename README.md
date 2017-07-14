@@ -4,7 +4,7 @@ This is a project for the Udacity Front-End Web Developer Nanodegree. The goal i
 
 The website should load with no errors. The tests are displayed at the end of the website.
 
-Here is the link to the site https://duck84.github.io/map/.
+Here is the link to the site https://duck84.github.io/feedReader/.
 
 To open it locally: 
 1. Download the repository.
